@@ -5,7 +5,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * @program: desensitization
  * @description:
- * @author: liu yan
+ * @author: yangwenjun
  * @create: 2022-10-27 10:03
  */
 public enum DataMaskingFunc {
